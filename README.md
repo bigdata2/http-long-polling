@@ -1,7 +1,7 @@
 # HTTP Long Polling Stack Server
 
 ###Dependencies
-The stack server python program (server.py) is implemented using Twisted. Twisted is an event driven network programming framework written in Python. In order to run this program you will need Python version 2.7.11 or later and Twisted version 16.4.1
+The stack server is implemented using Twisted. Twisted is an event driven network programming framework written in Python. In order to run this program you will need Python version 2.7.11 or later and Twisted version 16.4.1
 
 You can installed twisted using pip by issuing the following command:
 
